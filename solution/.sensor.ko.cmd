@@ -1,1 +1,0 @@
-cmd_/home/esp/Documents/proj3/sensor.ko := i586-poky-linux-ld -r -m elf_i386 -T /home/esp/SDK/sysroots/i586-poky-linux/usr/src/kernel/scripts/module-common.lds --build-id  -o /home/esp/Documents/proj3/sensor.ko /home/esp/Documents/proj3/sensor.o /home/esp/Documents/proj3/sensor.mod.o
